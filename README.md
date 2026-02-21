@@ -1,76 +1,52 @@
-# Hey there! 👋 I'm Your Name
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating innovative solutions and contributing to open-source projects.
+###
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-- 🔭 I'm currently working on exciting projects that make an impact
-- 🌱 I'm constantly learning new technologies and best practices
-- 💡 I'm interested in problem-solving and building scalable applications
-- 🤝 I'm open to collaborating on interesting projects
-- 📚 I believe in sharing knowledge and helping the community grow
+###
 
-## 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-### Languages
-- JavaScript/TypeScript
-- Python
-- Java
-- HTML/CSS
+###
 
-### Tools & Frameworks
-- React
-- Node.js
-- Git
-- Docker
-- REST APIs
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🏆 Highlighted Projects
+###
 
-### [Project Name 1](link)
-Brief description of what this project does and why it's cool.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-### [Project Name 2](link)
-Brief description of what this project does and why it's cool.
-
-### [Project Name 3](link)
-Brief description of what this project does and why it's cool.
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huarangarocky-svg&show_icons=true&theme=radical)](https://github.com/huarangarocky-svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huarangarocky-svg&layout=compact&theme=radical)](https://github.com/huarangarocky-svg)
-
-## 🎯 What I'm Working On
-
-- 📱 Building modern web applications
-- 🤖 Exploring AI and machine learning
-- 🔧 Contributing to open-source projects
-- 📖 Writing technical articles and documentation
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn Profile](link)
-- 🐦 Twitter: [@YourTwitter](link)
-- 📧 Email: your.email@example.com
-- 🌟 Website: [yourwebsite.com](link)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Add your latest blog posts here
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ Fun Facts
-
-- 🎮 I enjoy gaming in my free time
-- ☕ Coffee is my favorite programming fuel
-- 🎸 I'm learning to play guitar
-- 🌍 I love traveling and exploring new cultures
-
----
-
-**"Code is poetry written in logic."** ✨
-
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
+###
